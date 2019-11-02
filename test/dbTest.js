@@ -11,5 +11,6 @@ describe('Database', () => {
     //   done();
     // });
     expect(1 + 1).to.equal(2);
+    done();
   });
 });
